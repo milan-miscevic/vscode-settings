@@ -1,0 +1,8 @@
+{
+    "editor.autoSurround": "never",
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
+    "explorer.confirmDelete": false,
+    "window.title": "${rootName}",
+    "workbench.sideBar.location": "right"
+}

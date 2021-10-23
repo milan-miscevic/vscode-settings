@@ -1,0 +1,9 @@
+{
+	"declare(strict_types=1);": {
+		"prefix": "dst",
+		"body": [
+			"declare(strict_types=1);"
+		],
+		"description": "declare(strict_types=1);"
+	}
+}

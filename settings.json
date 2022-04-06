@@ -1,8 +1,19 @@
 {
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
     "editor.autoSurround": "never",
     "editor.minimap.enabled": false,
     "editor.renderWhitespace": "all",
     "explorer.confirmDelete": false,
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.codeLens.recentChange.enabled": false,
+    "php.suggest.basic": false,
+    "php.validate.enable": false,
+    "search.useIgnoreFiles": false,
+    "window.newWindowDimensions": "maximized",
     "window.title": "${rootName}",
+    "window.zoomLevel": 1,
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
     "workbench.sideBar.location": "right"
 }

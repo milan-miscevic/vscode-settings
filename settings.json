@@ -2,6 +2,7 @@
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "editor.autoClosingBrackets": "never",
     "editor.autoSurround": "never",
     "editor.minimap.enabled": false,
     "editor.renderWhitespace": "all",
@@ -13,7 +14,7 @@
     "search.useIgnoreFiles": false,
     "window.newWindowDimensions": "maximized",
     "window.title": "${rootName}",
-    "window.zoomLevel": 1,
+    "workbench.colorCustomizations": {},
     "workbench.preferredDarkColorTheme": "Visual Studio Dark",
     "workbench.sideBar.location": "right"
 }

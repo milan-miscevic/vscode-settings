@@ -8,7 +8,6 @@ This repository provides my [Visual Studio Code](https://github.com/microsoft/vs
 
 * bmewburn.vscode-intelephense-client
 * christian-kohler.path-intellisense
-* ctf0.vscode-paths-warning
 * eamodio.gitlens
 * EditorConfig.EditorConfig
 * xdebug.php-debug

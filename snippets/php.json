@@ -1,4 +1,11 @@
 {
+	"$this->": {
+		"prefix": "t",
+		"body": [
+			"\\$this->"
+		],
+		"description": "$this->"
+	},
 	"declare(strict_types=1);": {
 		"prefix": "dst",
 		"body": [

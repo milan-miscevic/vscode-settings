@@ -90,6 +90,7 @@
     "window.newWindowDimensions": "maximized",
     "window.title": "${rootName}",
     "workbench.colorCustomizations": {},
+    "workbench.list.openMode": "doubleClick",
     "workbench.preferredDarkColorTheme": "Visual Studio Dark",
     "workbench.sideBar.location": "right"
 }
